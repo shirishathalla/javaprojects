@@ -1,0 +1,2 @@
+Two Sum,Arrays,Easy,true,Solved using HashMap
+Longest Substring Without Repeating Characters,Strings,Medium,false,Need more practice
